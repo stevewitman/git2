@@ -20,6 +20,7 @@ describe('HomeComponent', () => {
   });
 
   it('should create', () => {
+    console.log('Wrote tests');
     expect(component).toBeTruthy();
   });
 });
