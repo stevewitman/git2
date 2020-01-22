@@ -21,5 +21,6 @@ describe('FaqPageComponent', () => {
 
   it('should create', () => {
     expect(component).toBeTruthy();
+    console.log('wrote some tests')
   });
 });
